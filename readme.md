@@ -1,0 +1,1 @@
+[nepali news predictor]("https://nepalinewscategorypredictorr.streamlit.app/)
