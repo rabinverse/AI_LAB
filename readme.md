@@ -1,1 +1,1 @@
-[nepali news predictor]("https://nepalinewscategorypredictorr.streamlit.app/)
+[Nepali News Predictor](https://nepalinewscategorypredictorr.streamlit.app/)
