@@ -4,7 +4,7 @@ import re
 
 st.title("समाचार वर्गीकरण प्रणाली")
 
-model = joblib.load("nepali_news_category_predictor.joblib")
+model = joblib.load("models/nepali_news_category_predictor.joblib")
 st.markdown(
     """पूर्वानुमान गरिने समाचारका वर्गहरू : :orange['विचार', 'देश', 'खेलकुद', 'मनोरञ्जन', 'प्रवास', 'साहित्य',
        'सूचना प्रविधि', 'स्वास्थ्य', 'विश्व']"""

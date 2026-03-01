@@ -2,7 +2,7 @@ import streamlit as st
 import joblib
 
 
-model = joblib.load("english_news_category_predictor.joblib")
+model = joblib.load("models/english_news_category_predictor.joblib")
 
 user_input = st.text_area("Enter the news to predict its category").strip()
 
